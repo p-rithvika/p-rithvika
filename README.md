@@ -18,8 +18,8 @@ Java, and web development.
 ## 🎯 My Goals
 
 - Strengthen my problem-solving skills.
-- Build practical projects.
-- Explore embedded systems and related technologies.
+- Improve my programming and development skills.
+- Build useful projects and learn new technologies.
 
 ## 🤝 Connect with Me
 
