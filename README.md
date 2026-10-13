@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**p-rithvika/p-rithvika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rithvika Puli 👋
 
-Here are some ideas to get you started:
+🎓 CSE Student at IIIT Jabalpur
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in problem-solving, software development,
+and exploring embedded systems.
+
+🌱 Currently learning C++, Data Structures & Algorithms,
+Java, and web development.
+
+## 🚀 Projects
+
+- 🏨 **Smart Hostel Portal** — A web-based hostel
+  complaint and maintenance management system
+  developed as a team hackathon project.
+
+## 🎯 My Goals
+
+- Strengthen my problem-solving skills.
+- Build practical projects.
+- Explore embedded systems and related technologies.
+
+## 🤝 Connect with Me
+
+- GitHub: https://github.com/p-rithvika
