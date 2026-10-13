@@ -3,8 +3,8 @@
 
 🎓 CSE Student at IIIT Jabalpur
 
-💻 Interested in problem-solving, software development,
-and exploring embedded systems.
+💻 Interested in problem-solving, software development
+.
 
 🌱 Currently learning C++, Data Structures & Algorithms,
 Java, and web development.
